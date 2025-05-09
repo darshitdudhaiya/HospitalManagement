@@ -16,6 +16,7 @@ This is a Java Swing-based desktop application that manages pharmacy-related ope
 
 ## 📁 Project Structure
 
+```
 HospitalPharmacySystem/
 │
 ├── data/
@@ -27,7 +28,7 @@ HospitalPharmacySystem/
 ├── PharmacyManager.java # Pharmacy module GUI and logic
 ├── BillingManager.java # (Optional) For future billing features
 └── README.md # This file
-
+```
 
 ---
 
