@@ -1,0 +1,10 @@
+Paracetamol,500mg
+Ibuprofen,200mg
+Amoxicillin,250mg
+Ciprofloxacin,500mg
+Cetirizine,10mg
+Metformin,500mg
+Atorvastatin,10mg
+Omeprazole,20mg
+Aspirin,75mg
+Azithromycin,500mg
