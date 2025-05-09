@@ -20,13 +20,18 @@ This is a Java Swing-based desktop application that manages pharmacy-related ope
 HospitalPharmacySystem/
 │
 ├── data/
+│ ├── users.txt # List of available users
 │ ├── medicines.txt # List of available medicines
 │ ├── admissions.txt # Patient admission records
 │ └── pharmacy_assignments.txt # Assigned medicine records
 │
 ├── Dashboard.java # Main dashboard window
+├── AdmissionManager.java # Admission module GUI and logic
 ├── PharmacyManager.java # Pharmacy module GUI and logic
-├── BillingManager.java # (Optional) For future billing features
+├── BillingManager.java # Billing module GUI and logic 
+├── Login.java # Login module GUI and logic 
+├── Signup.java # Signup module GUI and logic 
+├── Main.java # Main module GUI and logic 
 └── README.md # This file
 ```
 
